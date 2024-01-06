@@ -1,0 +1,109 @@
+/*1347545688,173213725*/
+
+.fbEmuPreview{padding:10px;border:1px solid #e5e5e5;background-color:#fff;width:234px}
+.UIErrorFlag{background:url(https://s-static.ak.fbcdn.net/rsrc.php/v2/yc/r/6jCZEoCSyRO.gif) top left no-repeat;padding:0 0 0 10px;position:absolute;top:2px;width:200px;z-index:2}
+.UIErrorFlag_Margins{margin-left:8px;margin-top:-2px}
+.UIHelpFlag_Block{background:url(https://s-static.ak.fbcdn.net/rsrc.php/v2/yc/r/i4wEMQzOkca.gif) top left no-repeat;width:261px;margin:0 0 20px -11px;position:relative}
+.UIHelpFlag_Close{position:absolute;right:6px;top:6px;background:url(https://s-static.ak.fbcdn.net/rsrc.php/v2/y0/r/B0fxoQyAj2E.gif) center center no-repeat;height:16px;width:15px}
+.UIHelpFlag_Close:hover{background-color:#f9efb3}
+.UIHelpFlag_Block .UIHelpFlag_Inner{background-color:#fff9d7;border-bottom:1px solid #e2c822;display:block;margin-left:11px;padding:8px 12px 12px 10px}
+.UIHelpFlag_Title{display:block;font-weight:bold;margin:0 0 6px 0}
+.UIErrorFlag_MultiField{top:10px}
+.UIErrorFlag .UIErrorFlag_Inner{background-color:#ffebe8;border-bottom:1px solid #eb8266;display:block;padding:4px 7px 3px 9px}
+.field_container{display:inline-block;position:relative;width:auto}
+.error_field{background:#dd3c10}
+.error_field input.inputtext, .error_field input.inputpassword, .error_field #captcha_response{border-color:#dd3c10}
+.error_field input:focus, .error_field select:focus, .error_field input#captcha_response:focus{outline:0}
+.error_floating_container{float:left;position:relative;width:auto}
+.ads_terms_and_conditions{color:#888;padding-top:15px}
+.review_ad #error h1{float:none;padding:0}
+.review_ad p.subtitle{font-size:13px;line-height:1.5em;margin:-15px 0 15px 0}
+.review_ad .preview_review_container{float:left;margin-bottom:15px}
+.review_ad .UIAdmgrCreativePreview{margin-bottom:15px}
+.review_ad .ad_detail{margin:0 10px 0 0;width:354px}
+.review_ad .ad_detail dt{clear:left;color:#555;float:left;font-weight:bold;margin:0;padding-top:6px;width:90px}
+.review_ad .ad_detail dd{float:left;margin:0;padding:6px 0 0 10px;width:254px}
+.review_ad .ad_detail dd #suggested_name{padding:3px 3px;width:152px}
+.review_ad .review_ad_preview .ad_link{display:block;margin-top:10px}
+.review_ad .payment_container{float:right;margin-bottom:15px;width:385px}
+.review_ad #vertical_type{padding-top:15px}
+.review_ad .submit_order{clear:both;padding-left:100px;padding-bottom:15px}
+.review_ad .savead_explanation{padding-bottom:10px;font-weight:bold}
+.review_ad .status{margin-bottom:10px}
+.create #warning_box{background-color:#ffffe0;padding:8px;border:1px solid #ffd6ad;margin:16px 16px 0}
+.create #warning_header{font-weight:bold;padding:4px 0}
+.create #warning_static{padding-top:4px}
+ul.targeting_lines, ul.delivery_lines{list-style-type:square;margin:5px 0;padding-left:15px}
+span.targeting_highlight{font-size:larger;font-weight:bold}
+div.gift_credits_body{margin:0 25px}
+.gift_credits div.checkout_and_main_body{margin:0 auto;width:520px}
+.gift_credits div.checkout_and_main_body_verify_cc{margin:0 auto;width:627px}
+.gift_credits .cc_fullpage_order_total{border-top:1px solid #ccc;font-weight:bold;margin:0 10px 0 10px;padding-top:10px}
+.gift_credits .cc_fullpage_verify_cc{margin:0 10px 0 10px;padding-top:5px;padding-bottom:5px}
+.gift_credits #cc_fullpage_verify_helplink:hover{text-decoration:none}
+.cc_order_error_button{text-align:right}
+.gift_credits .cc_fullpage_order_total .title{color:#666}
+.gift_credits div.main_body{padding:20px 30px}
+.gift_credits .gift_cart_box{margin-bottom:20px}
+.gift_credits .total_amount{border-top:1px solid #c0c0c0;margin:16px 0 0 0;padding:10px 0 10px 5px;font-size:13px}
+.gift_credits .total_amount .total_label{font-weight:bold}
+.gift_credits .total_amount #total_amount_element{padding-left:5px;font-size:16px;font-weight:bold}
+.gift_credits .total_amount .iso_text{color:#999;font-size:12px}
+.gift_credits #payment{padding-left:7px}
+.gift_credits .button_row{padding-top:15px;text-align:center}
+.gift_credits .button_row img,
+.gift_credits .button_row .secure_logo{vertical-align:middle}
+.gift_credits .payment_footer{text-align:center;width:520px;margin-left:auto;margin-right:auto}
+.gift_credits .payment_footer_alt{text-align:auto;width:480px;margin-left:auto;margin-right:auto}
+.gift_credits .loading_payment{text-align:center}
+.gift_credits .loading_payment .loading_payment_inner{background:url(https://s-static.ak.fbcdn.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat scroll 0 4px;font-size:13px;font-weight:bold;line-height:32px;padding:12px 0 12px 40px}
+.gift_credits .order_error_msg{background-color:#ffebe8;border:1px solid #dd3c10;margin:10px auto;font-size:12px;padding:6px 12px 6px 12px;text-align:center;width:450px}
+.gift_credits .error_message{text-align:center;padding-bottom:10px}
+.gift_credits .error_message .error_right{font-size:13px;font-weight:bold;vertical-align:middle;padding:0 0 10px 10px}
+.payment_align_center{margin:0 auto}
+.payment_align_right{position:absolute;right:0}
+.payment_divider{background-color:#e9e9e9;border-top:1px solid #ccc;height:1px;text-align:center}
+.payment_divider_text{background:#f2f2f2;padding:0 5px;position:relative;top:-0.9em}
+.paypal_button{margin-bottom:3px}
+.order_details_title{padding-left:50px}
+.confirmation_coupon_dialog{padding-left:40px}
+.ccForm{border-right:1px solid #dbdbdb}
+.paymentSelection{margin:0 20px 0 20px;padding:0 0 5px 5px;border-right:none}
+.paymentSelectionTabBar{border-bottom:1px solid #fff;border-right:none}
+.paymentSelectionTabBar .paymentSelectionList{margin-top:-1px}
+.paymentSelectionTabBar .paymentSelectionItem{color:#565656;border-right:none;display:inline-block;font-weight:bold;margin-right:0;padding:7px 10px 8px}
+.paymentSelectionTabBar .paymentSelectionPayPal{padding-right:50px;border-bottom:2px solid #dbdbdb;border-right:none;background-color:#fff;color:#333}
+.paymentSelectionTabBar .paymentSelectionCreditCard{border-right:1px solid #dbdbdb;padding-left:15px;padding-right:35px}
+.sp_3f0t1g{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v2/yZ/r/wLT6Ip0h51L.png);background-repeat:no-repeat;display:inline-block;height:25px;width:39px}
+.sx_a38611{background-position:-0px -26px}
+.sx_5be905{width:40px;background-position:-0px -0px}
+.sx_0b34c8{width:33px;background-position:-0px -128px}
+.sx_f8f1b4{background-position:-0px -52px}
+.sx_5c7e8e{width:37px;background-position:-0px -78px}
+.sx_ac494f{width:12px;height:15px;background-position:-0px -187px}
+.sx_4f8b0a{width:37px;height:23px;background-position:-0px -104px}
+.sx_cca367{width:32px;height:32px;background-position:-0px -154px}
+.sx_9f87f8{width:9px;height:14px;background-position:-13px -187px}
+.UICreditCardForm .credit_card table{width:380px}
+.UICreditCardForm .credit_card td{width:160px}
+.UICreditCardForm .credit_card td.cclabel{padding-right:10px}
+.UICreditCardForm .credit_card input{width:180px}
+.UICreditCardForm .credit_card select{width:188px}
+.UICreditCardForm .csc_tablecell .inputtext{margin-right:10px;width:40px}
+.UICreditCardForm .inputsubmit{margin-top:8px;margin-left:3px}
+.UICreditCardForm #cc_expMonth, .UICreditCardForm #cc_expYear, .UICreditCardForm #create_submit{width:auto}
+.UICreditCardForm #cc_cardType_span .unselected{opacity:.2}
+.UICreditCardForm #cc_cardType_span{width:210px}
+.UICreditCardForm #cc_countryCode{width:191px}
+.UICreditCardForm #cc_csc, .UICreditCardForm #cc_csc_2{width:40px}
+#UIErrorForm_GenericError{margin:0 0 7px 0}
+.UIErrorForm_Field .inputtext{border:none;padding:3px 0 3px 3px;display:block}
+.UIErrorForm_Field select{border:1px solid #bdc7d8}
+.UIErrorForm_NoError{border:1px solid #bdc7d8;display:block;float:left;position:relative}
+.UIErrorForm_NoInput{display:block;float:left;position:relative}
+.UIErrorForm_ErrorField{border:2px solid #dd3c10}
+.UIErrorForm_ErrorField input{border:none;margin:0}
+.UIErrorForm_Flag{background:url(https://s-static.ak.fbcdn.net/rsrc.php/v2/yc/r/6jCZEoCSyRO.gif) top left no-repeat;padding:0 0 0 10px;position:absolute;top:-2px;width:200px;z-index:2}
+.UIErrorForm_Flag_Inner{background-color:#ffebe8;border-bottom:1px solid #eb8266;display:block;padding:4px 7px 3px 9px}
+
+#bootloader_ndpqk { height: 42px; }
